@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d447451d05102e64d9996730f271070c, type: 3}
+  m_Name: Obelisk
+  m_EditorClassIdentifier: 
+  relicNameArabic: Oblisk
+  description: A tall, four-sided, narrow tapering monument which ends in a pyramid-like
+    shape at the top. They were often built to commemorate individuals or events
+    and to honor the gods.
+  era: "New Kingdom (c. 1550\u20131070 BC)"
+  relicIcon: {fileID: 21300000, guid: aa3180d727d0f9f49a7a6231a2222964, type: 3}
+  narrationClip: {fileID: 8300000, guid: 9efded8e6c4fb054aa330ded5655eb02, type: 3}

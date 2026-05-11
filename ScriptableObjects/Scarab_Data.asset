@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d447451d05102e64d9996730f271070c, type: 3}
+  m_Name: Scarab_Data
+  m_EditorClassIdentifier: 
+  relicNameArabic: Scarab
+  description: 'A sacred symbol of rebirth and regeneration.
+
+    Worn as an amulet
+    for protection and good luck.
+
+    Placed over the heart of the mummy during
+
+    the
+    burial ritual to guard the soul.
+
+'
+  era: Middle Kingdom 1650 BC
+  relicIcon: {fileID: 21300000, guid: bd241a96f322c6444ad9c0990136b41e, type: 3}
+  narrationClip: {fileID: 8300000, guid: bb522c65b75919448af90de55076551b, type: 3}
