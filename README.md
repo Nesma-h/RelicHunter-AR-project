@@ -29,14 +29,14 @@ The project is structured into three main scenes to ensure a smooth user experie
 
 This screen appears immediately upon launching the app, providing a simple interface to start the mission or read instructions.
 
-![Main Menu](1-1.jpg)
+![Main Menu](1-2.jpg)
 
 ### Core Components
 *   **MenuManager.cs:** Script controlling button functionality and scene transitions.
 *   **AudioSource:** Plays ancient-themed background music and button sound effects.
 *   **Instructions Panel:** An overlay showing the player how to interact with the game.
 
-![How to Play](1-2.jpg)
+![How to Play](1-1.jpg)
 
 ---
 
